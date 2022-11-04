@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.container {
+    border: 3px solid royalblue;
+    background-color: rgb(240, 219, 167);
+    width: 700px;
+    margin: 50px auto;
+
+}
+#mobilepara{
+    border: 3px solid rosybrown;
+    padding: 10px;
+    margin: 20px;  
+    float: left;         
+    width: 300px;
+
+}
+#laptoppara{
+    border: 3px solid rosybrown;
+    padding: 10px;
+    margin: 20px;
+    float: left;
+    width: 300px;
+}
+#accessoriespara{
+    border: 3px solid rosybrown;
+    padding: 10px;
+    margin: 20px;
+    clear: both;
+}
+body{
+    background-image: url(/images/bgimage.png);
+}
+h4,p{
+    font-family: cursive;
+    
+}
+h3{
+    
+    margin:auto;
+    padding:10px;
+    width: 300px;
+    font-family: 'Bungee Spice';
+}
+
